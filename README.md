@@ -1,4 +1,4 @@
-# Ski-Resort-Analysis
+# Ski-Resort- Data Visualization
 
 ## Project Overview
 
